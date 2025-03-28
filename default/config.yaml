@@ -142,7 +142,7 @@ performance:
   memoryCacheCapacity: '100mb'
 
 # Allow secret keys exposure via API
-allowKeysExposure: false
+allowKeysExposure: true
 # Skip new default content checks
 skipContentCheck: false
 # Allowed hosts for card downloads
